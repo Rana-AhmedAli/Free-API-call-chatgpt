@@ -1,5 +1,5 @@
 @echo off
-title 🚀 PAKI API - AUTO INSTALLER & RUNNER 🚀
+title 🚀 PAKI API - AUTO INSTALLER & RUNNER 🚀rm this
 color 0A
 
 :: --- 1. Check Python ---
